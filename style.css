@@ -18,6 +18,14 @@
     background-color: red;
 }
 
+.img-event {
+    object-fit: cover;
+    border-radius: 15px;
+    width: 250px;
+    display: flex;
+    margin: auto;
+}
+
 body, html {
     height: 100%;
     padding: 0;
