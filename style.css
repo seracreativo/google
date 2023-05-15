@@ -18,10 +18,17 @@
     background-color: red;
 }
 
+.cont-events {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 15px;
+    margin: 20px 15px;
+}
+
 .img-event {
     object-fit: cover;
     border-radius: 15px;
-    width: 250px;
+    width: 100%;
     display: flex;
     margin: auto;
 }
