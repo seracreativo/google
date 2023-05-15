@@ -62,6 +62,7 @@ main {
 
 .bar-buscar {
     margin: auto;
+    margin-top: 20px;
     display: grid;
     height: 50px;
     grid-template-columns: auto 1fr auto auto;
